@@ -1,0 +1,27 @@
+name: Feedback de teste
+description: Relate um problema ou sugestão sobre o site ou o app
+labels: [feedback]
+body:
+  - type: dropdown
+    id: onde
+    attributes:
+      label: Onde aconteceu?
+      options: [App Android, Site, Outro]
+    validations: {required: true}
+  - type: input
+    id: versao
+    attributes:
+      label: Versão do app (ex.: 2027.0.3.1)
+  - type: input
+    id: aparelho
+    attributes:
+      label: Modelo do celular e versão do Android
+  - type: textarea
+    id: o-que
+    attributes:
+      label: O que você viu e o que esperava?
+    validations: {required: true}
+  - type: textarea
+    id: passos
+    attributes:
+      label: Passos para repetir (se houver)
