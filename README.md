@@ -33,9 +33,9 @@ o que a organização publica aparece na hora para o público.
 ## Baixar o app Android
 
 <!-- APK-LATEST:START -->
-**Versão mais recente: `transformar_juntos_2027.0.4.0.apk`** (app 0.4.0, gerado em 11/10/2026)
+**Versão mais recente: `transformar_juntos_2027.0.4.1.apk`** (app 0.4.0, gerado em 12/10/2026)
 
-### [Baixar o APK](https://expo.dev/artifacts/eas/yd482jBgnrvFPV8Oe0nRmn7WzsB60_bPTR4CvGqDuX0.apk)
+### [Baixar o APK](https://expo.dev/artifacts/eas/ja1pz09-wNnQmZWF84kzpuYS3EbCqbyBVznZGrb2mi4.apk)
 
 Link válido até **25/10/2026**. Depois dessa data, volte aqui: o link novo é publicado neste mesmo lugar.
 <!-- APK-LATEST:END -->
@@ -51,6 +51,7 @@ Link válido até **25/10/2026**. Depois dessa data, volte aqui: o link novo é 
 
 | Arquivo | Versão | Data | Novidades |
 |---|---|---|---|
+| `transformar_juntos_2027.0.4.1.apk` | 0.4.0 | 12/10/2026 | Fonte Orbitron nos títulos e ajustes visuais do tema cyber |
 | `transformar_juntos_2027.0.4.0.apk` | 0.4.0 | 11/10/2026 | Home em bento grid, programação em linha do tempo, agenda (.ics), validação pública do certificado, mapa com zoom, QR e certificado renovados |
 | `transformar_juntos_2027.0.3.1.apk` | 0.3.1 | 11/10/2026 | Build corrigido, com as mesmas novidades da 0.3.0 |
 | `transformar_juntos_2027.0.3.0.apk` | 0.3.0 | 10/10/2026 | Tema neon, ícones e tela de abertura do evento, correção do fechamento ao abrir |
