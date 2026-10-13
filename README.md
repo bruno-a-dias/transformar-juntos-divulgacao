@@ -24,6 +24,7 @@ o que a organização publica aparece na hora para o público.
 |---|---|---|
 | **Site** | Hotsite do evento e área do participante | https://transformar-juntos-site.vercel.app |
 | **App Android** | Aplicativo para o dia do evento | [Baixar o APK](#-baixar-o-app-android) |
+| **App no iPhone** | Versão web instalável (Safari → Compartilhar → Adicionar à Tela de Início) | https://transformar-juntos-app.vercel.app |
 | **Painel de gestão** | Uso restrito da equipe organizadora | Apresentado nas imagens abaixo |
 
 > Para testar o fluxo completo, crie uma conta no site (**Inscrição**) e entre com o mesmo e-mail e senha no app. A conta é a mesma nos dois.
