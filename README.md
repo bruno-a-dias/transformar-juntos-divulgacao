@@ -34,9 +34,9 @@ o que a organização publica aparece na hora para o público.
 ## Baixar o app Android
 
 <!-- APK-LATEST:START -->
-**Versão mais recente: `transformar_juntos_2027.0.4.4.apk`** (app 0.4.0, gerado em 12/10/2026)
+**Versão mais recente: `transformar_juntos_2027.0.4.5.apk`** (app 0.4.5, gerado em 13/10/2026)
 
-### [Baixar o APK](https://expo.dev/artifacts/eas/RlStGku1KnyempYusx3rlbJ3jLVwB5s0Hbyv7v6Lx2s.apk)
+### [Baixar o APK](https://expo.dev/artifacts/eas/BNzu6-jsAp3RdIMqtqa1_XJ2Re3nyJ1C-48oTRq2vjM.apk)
 
 Link válido até **25/10/2026**. Depois dessa data, volte aqui: o link novo é publicado neste mesmo lugar.
 <!-- APK-LATEST:END -->
@@ -52,6 +52,7 @@ Link válido até **25/10/2026**. Depois dessa data, volte aqui: o link novo é 
 
 | Arquivo | Versão | Data | Novidades |
 |---|---|---|---|
+| `transformar_juntos_2027.0.4.5.apk` | 0.4.5 | 13/10/2026 | Tema cyberpunk igual ao do site, leitura do QR de estande corrigida |
 | `transformar_juntos_2027.0.4.4.apk` | 0.4.0 | 12/10/2026 | Botão para pausar ou ligar as animações no cabeçalho |
 | `transformar_juntos_2027.0.4.3.apk` | 0.4.0 | 12/10/2026 | Barra de abas acima dos botões do Android |
 | `transformar_juntos_2027.0.4.2.apk` | 0.4.0 | 12/10/2026 | Tema cyberpunk com linhas de luz deslizantes (site e painel), dependências conferidas |
