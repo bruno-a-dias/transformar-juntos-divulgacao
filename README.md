@@ -34,9 +34,9 @@ o que a organização publica aparece na hora para o público.
 ## Baixar o app Android
 
 <!-- APK-LATEST:START -->
-**Versão mais recente: `transformar_juntos_2027.0.4.3.apk`** (app 0.4.0, gerado em 12/10/2026)
+**Versão mais recente: `transformar_juntos_2027.0.4.4.apk`** (app 0.4.0, gerado em 12/10/2026)
 
-### [Baixar o APK](https://expo.dev/artifacts/eas/RE2OEokTyaQIN1KNt1jWPRqWxrXkTd5ReNoqHxQzYB8.apk)
+### [Baixar o APK](https://expo.dev/artifacts/eas/RlStGku1KnyempYusx3rlbJ3jLVwB5s0Hbyv7v6Lx2s.apk)
 
 Link válido até **25/10/2026**. Depois dessa data, volte aqui: o link novo é publicado neste mesmo lugar.
 <!-- APK-LATEST:END -->
@@ -52,6 +52,7 @@ Link válido até **25/10/2026**. Depois dessa data, volte aqui: o link novo é 
 
 | Arquivo | Versão | Data | Novidades |
 |---|---|---|---|
+| `transformar_juntos_2027.0.4.4.apk` | 0.4.0 | 12/10/2026 | Botão para pausar ou ligar as animações no cabeçalho |
 | `transformar_juntos_2027.0.4.3.apk` | 0.4.0 | 12/10/2026 | Barra de abas acima dos botões do Android |
 | `transformar_juntos_2027.0.4.2.apk` | 0.4.0 | 12/10/2026 | Tema cyberpunk com linhas de luz deslizantes (site e painel), dependências conferidas |
 | `transformar_juntos_2027.0.4.1.apk` | 0.4.0 | 12/10/2026 | Fonte Orbitron nos títulos e ajustes visuais do tema cyber |
